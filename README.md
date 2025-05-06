@@ -4,3 +4,8 @@ Svelteの学習で作成した、アンゴラウサギのクリッカーゲー�
 
 以下のURLで遊ぶことができます。  
 https://yoshi-782.github.io/ClicccarGame/
+
+## 説明
+左上にアイテムメニューボタンがあります。  
+アンゴラウサギと引き換えに、便利なアイテムを取得することができます。
+![Image](https://github.com/user-attachments/assets/380844a6-d788-4b80-92c8-8d5c9e32d384)
